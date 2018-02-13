@@ -10,7 +10,20 @@ trap cleanup SIGINT SIGTERM
 echo $SPEED
 while [ 1 ]
 do
-	echo "Loggggginnnnnggg !!!! $(date)"
+	echo "Loggggginnnnnggg LoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnnggg !!!! $(date)"
+	echo "Loggggginnnnnggg LoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnnggg !!!! $(date)"
+	echo "Loggggginnnnnggg LoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnnggg !!!! $(date)"
+	echo "Loggggginnnnnggg LoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnnggg !!!! $(date)"
+	echo "Loggggginnnnnggg LoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnnggg !!!! $(date)"
+	echo "Loggggginnnnnggg LoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnnggg !!!! $(date)"
+	echo "Loggggginnnnnggg LoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnnggg !!!! $(date)"
+	echo "Loggggginnnnnggg LoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnnggg !!!! $(date)"
+	echo "Loggggginnnnnggg LoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnnggg !!!! $(date)"
+	echo "Loggggginnnnnggg LoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnnggg !!!! $(date)"
+	echo "Loggggginnnnnggg LoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnnggg !!!! $(date)"
+	echo "Loggggginnnnnggg LoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnnggg !!!! $(date)"
+	echo "Loggggginnnnnggg LoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnnggg !!!! $(date)"
+	echo "Loggggginnnnnggg LoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnngggLoggggginnnnnggg !!!! $(date)"
 	sleep $SPEED &
 	wait $!
 done

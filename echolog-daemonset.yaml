@@ -19,8 +19,8 @@ spec:
       containers:
       - env:
         - name: SPEED
-          value: 1
-        image: azman0101/echolog:v0.1
+          value: "1"
+        image: azman0101/echolog:latest
         imagePullPolicy: IfNotPresent
         name: echolog
         resources:
