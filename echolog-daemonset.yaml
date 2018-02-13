@@ -21,7 +21,7 @@ spec:
         - name: SPEED
           value: "1"
         image: azman0101/echolog:latest
-        imagePullPolicy: IfNotPresent
+        imagePullPolicy: Always
         name: echolog
         resources:
           limits:
